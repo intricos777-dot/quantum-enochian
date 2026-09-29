@@ -1,0 +1,28 @@
+{
+  "name": "quantum-enochian",
+  "version": "1.0.0",
+  "description": "21-layer authenticated encryption: 7 Enochian + 7 Cypher Magick + 7 .hack//G.U. World rune layers, each AES-256-GCM with scrypt/PBKDF2-SHA3 key derivation.",
+  "type": "module",
+  "main": "src/layered-enochian.js",
+  "bin": {
+    "qe-layered": "src/layered-cli.js"
+  },
+  "scripts": {
+    "test": "node --test test/",
+    "patrol": "bash scripts/bde-layered-patrol.sh"
+  },
+  "files": [
+    "src/",
+    "scripts/",
+    "LAYERED_FORMAT.md"
+  ],
+  "keywords": [
+    "encryption",
+    "aes-256-gcm",
+    "scrypt",
+    "pbkdf2",
+    "multi-layer"
+  ],
+  "license": "MIT",
+  "private": true
+}
