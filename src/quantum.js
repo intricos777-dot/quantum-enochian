@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 import crypto from 'node:crypto';
 
 const SMALL_PRIMES = [

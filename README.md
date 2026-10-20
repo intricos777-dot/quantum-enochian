@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # quantum-enochian
 
 21-layer authenticated encryption: **7 Enochian + 7 Cypher Magick + 7 .hack//G.U.

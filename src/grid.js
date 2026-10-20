@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 import crypto from 'node:crypto';
 import { deriveSeed, ENOCHIAN_LETTERS } from './enochian.js';
 import { generateKeyPair, serializeKey, deriveChildKey } from './cipher.js';

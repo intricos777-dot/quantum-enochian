@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 import { test } from 'node:test';
 import assert from 'node:assert';
 import { seal, unseal, LAYER_NAMES, LAYER_ELEMENTS, TRIADS, layerPassphrase, derivePersonalLayerKey, status, wrapLayer, unwrapLayer } from '../src/layered-enochian.js';

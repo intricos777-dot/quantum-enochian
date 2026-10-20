@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 // qe-layered — CLI for the 21-layer sealed format.
 //
 // Secret handling: resolved by src/secret.js from $QE_SECRET_FILE (preferred) or

@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 // Secret sourcing for the layered CLI.
 //
 // The original CLI took --secret on argv, which leaks the secret into `ps`

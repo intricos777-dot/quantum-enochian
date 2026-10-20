@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 // Tests for the hardened CLI surface: secret resolution and the at-rest
 // seal/unseal path. These cover the two defects the original CLI had — a
 // secret accepted on argv, and no binary-safe file operation.

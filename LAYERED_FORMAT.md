@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Quantum Enochian — Layered Format (21 Layers / 3 Triads)
 
 Layered encryption with 21 keyed layers across 3 triads of 7, self-healing/debug wrappers, and BDE patrol.

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 set -euo pipefail
 REPO="$HOME/Projects/quantum-enochian"
 echo "=== BDE layered patrol $(date -u +%Y-%m-%dT%H:%M:%SZ) ==="
